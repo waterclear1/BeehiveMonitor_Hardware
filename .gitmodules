@@ -1,0 +1,3 @@
+[submodule "beehive/Library/PCBdes"]
+	path = beehive/Library/PCBdes
+	url = https://github.com/waterclear1/PCB_cuslib.git

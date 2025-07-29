@@ -1,0 +1,7 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "ESP32-S3-WROOM-1")(type "KiCad")(uri "${KIPRJMOD}/Library/PCBdes/imported/esp32s3wroom1u")(options "")(descr ""))
+  (lib (name "ADXL362")(type "KiCad")(uri "${KIPRJMOD}/Library/PCBdes/imported/adxl362")(options "")(descr ""))
+  (lib (name "Board_SparkFun_HX711_Load_Cell")(type "KiCad")(uri "${KIPRJMOD}/Library/PCBdes/ref/hx711_sparkfun/SparkFun_HX711_Load_Cell.pretty")(options "")(descr ""))
+  (lib (name "Board_ADXL362_BOB_v01")(type "KiCad")(uri "${KIPRJMOD}/Library/PCBdes/ref/adxl362_sparkfun/ADXL362 BOB v01/ADXL362 BOB v01.pretty")(options "")(descr ""))
+)

@@ -6278,7 +6278,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "SparkFun_HX711_Load_Cell:1X02"
+		(property "Footprint" "Board_SparkFun_HX711_Load_Cell:1X02"
 			(at 217.17 74.93 0)
 			(effects
 				(font
@@ -6347,7 +6347,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "SparkFun_HX711_Load_Cell:0603-CAP"
+		(property "Footprint" "Board_SparkFun_HX711_Load_Cell:0603-CAP"
 			(at 250.19 29.21 0)
 			(effects
 				(font
@@ -6482,7 +6482,7 @@
 				(justify right top)
 			)
 		)
-		(property "Footprint" "SparkFun_HX711_Load_Cell:0805"
+		(property "Footprint" "Board_SparkFun_HX711_Load_Cell:0805"
 			(at 273.05 49.53 0)
 			(effects
 				(font
@@ -6617,7 +6617,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "SparkFun_HX711_Load_Cell:0603-CAP"
+		(property "Footprint" "Board_SparkFun_HX711_Load_Cell:0603-CAP"
 			(at 247.65 57.15 0)
 			(effects
 				(font
@@ -6687,7 +6687,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "SparkFun_HX711_Load_Cell:SOT23-3"
+		(property "Footprint" "Board_SparkFun_HX711_Load_Cell:SOT23-3"
 			(at 293.37 41.91 0)
 			(effects
 				(font
@@ -6759,7 +6759,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "SparkFun_HX711_Load_Cell:0603-RES"
+		(property "Footprint" "Board_SparkFun_HX711_Load_Cell:0603-RES"
 			(at 285.75 72.39 0)
 			(effects
 				(font
@@ -6828,7 +6828,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "SparkFun_HX711_Load_Cell:0603-CAP"
+		(property "Footprint" "Board_SparkFun_HX711_Load_Cell:0603-CAP"
 			(at 295.91 97.79 0)
 			(effects
 				(font
@@ -6897,7 +6897,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "SparkFun_HX711_Load_Cell:1X05"
+		(property "Footprint" "Board_SparkFun_HX711_Load_Cell:1X05"
 			(at 217.17 54.61 0)
 			(effects
 				(font
@@ -7217,7 +7217,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "SparkFun_HX711_Load_Cell:0603-RES"
+		(property "Footprint" "Board_SparkFun_HX711_Load_Cell:0603-RES"
 			(at 285.75 57.15 0)
 			(effects
 				(font
@@ -7286,7 +7286,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "ADXL362 BOB v01:0402-CAP"
+		(property "Footprint" "Board_ADXL362_BOB_v01:0402-CAP"
 			(at 353.06 201.93 0)
 			(effects
 				(font
@@ -7497,7 +7497,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "SparkFun_HX711_Load_Cell:0603-RES"
+		(property "Footprint" "Board_SparkFun_HX711_Load_Cell:0603-RES"
 			(at 288.29 102.87 0)
 			(effects
 				(font
@@ -7698,7 +7698,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "SparkFun_HX711_Load_Cell:0603-RES"
+		(property "Footprint" "Board_SparkFun_HX711_Load_Cell:0603-RES"
 			(at 288.29 90.17 0)
 			(effects
 				(font
@@ -7832,7 +7832,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ESP32:XCVR_ESP32-S3-WROOM-1U"
+		(property "Footprint" "ESP32-S3-WROOM-1:XCVR_ESP32-S3-WROOM-1U"
 			(at 45.72 74.93 0)
 			(effects
 				(font
@@ -8229,7 +8229,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "SparkFun_HX711_Load_Cell:0603-RES"
+		(property "Footprint" "Board_SparkFun_HX711_Load_Cell:0603-RES"
 			(at 351.79 39.37 0)
 			(effects
 				(font
@@ -8298,7 +8298,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "SparkFun_HX711_Load_Cell:0603-CAP"
+		(property "Footprint" "Board_SparkFun_HX711_Load_Cell:0603-CAP"
 			(at 298.45 80.01 0)
 			(effects
 				(font
@@ -8368,7 +8368,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "ADXL362 BOB v01:1X04"
+		(property "Footprint" "Board_ADXL362_BOB_v01:1X04"
 			(at 312.42 161.29 0)
 			(effects
 				(font
@@ -8509,7 +8509,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "SparkFun_HX711_Load_Cell:0603-CAP"
+		(property "Footprint" "Board_SparkFun_HX711_Load_Cell:0603-CAP"
 			(at 262.89 29.21 0)
 			(effects
 				(font
@@ -8644,7 +8644,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "SparkFun_HX711_Load_Cell:1210"
+		(property "Footprint" "Board_SparkFun_HX711_Load_Cell:1210"
 			(at 278.13 29.21 0)
 			(effects
 				(font
@@ -8977,7 +8977,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "SparkFun_HX711_Load_Cell:1X05"
+		(property "Footprint" "Board_SparkFun_HX711_Load_Cell:1X05"
 			(at 379.73 69.85 0)
 			(effects
 				(font
@@ -9120,7 +9120,7 @@
 				)
 			)
 		)
-		(property "Footprint" "adxl362:LGA-16-3X2.5"
+		(property "Footprint" "ADXL362:LGA-16-3X2.5"
 			(at 316.23 196.85 0)
 			(effects
 				(font
@@ -9307,7 +9307,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "SparkFun_HX711_Load_Cell:1210"
+		(property "Footprint" "Board_SparkFun_HX711_Load_Cell:1210"
 			(at 257.81 57.15 0)
 			(effects
 				(font
@@ -9376,7 +9376,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "SparkFun_HX711_Load_Cell:PAD-JUMPER-2-NC_BY_TRACE_YES_SILK"
+		(property "Footprint" "Board_SparkFun_HX711_Load_Cell:PAD-JUMPER-2-NC_BY_TRACE_YES_SILK"
 			(at 351.79 54.61 0)
 			(effects
 				(font
