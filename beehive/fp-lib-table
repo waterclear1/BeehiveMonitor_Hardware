@@ -4,4 +4,6 @@
   (lib (name "ADXL362")(type "KiCad")(uri "${KIPRJMOD}/Library/PCBdes/imported/adxl362")(options "")(descr ""))
   (lib (name "Board_SparkFun_HX711_Load_Cell")(type "KiCad")(uri "${KIPRJMOD}/Library/PCBdes/ref/hx711_sparkfun/SparkFun_HX711_Load_Cell.pretty")(options "")(descr ""))
   (lib (name "Board_ADXL362_BOB_v01")(type "KiCad")(uri "${KIPRJMOD}/Library/PCBdes/ref/adxl362_sparkfun/ADXL362 BOB v01/ADXL362 BOB v01.pretty")(options "")(descr ""))
+  (lib (name "TP5100")(type "KiCad")(uri "${KIPRJMOD}/Library/PCBdes/imported/TP5100")(options "")(descr ""))
+  (lib (name "MP2307")(type "KiCad")(uri "${KIPRJMOD}/Library/PCBdes/imported/MP2307")(options "")(descr ""))
 )
